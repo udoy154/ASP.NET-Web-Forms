@@ -1,0 +1,4 @@
+open the project on visual studio 
+
+To add all project packeges
+ ==> Rebuild the project 
